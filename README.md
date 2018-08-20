@@ -4,7 +4,7 @@ Aula de Git na {reprograma}
 
 
 * git innit 
-* git status 
+* git status - para ver lista de arquivos modificados 
 * git commit 
 
 
