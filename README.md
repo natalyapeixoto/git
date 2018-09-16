@@ -1,11 +1,14 @@
 Hello World!
-Aula de Git na {reprograma}
+Learning Git at {reprograma}
 :smile:
 
 
 * git innit 
-* git status - para ver lista de arquivos modificados 
+* git status  
 * git commit 
+* git push 
+* git pull 
+
 
 
 
